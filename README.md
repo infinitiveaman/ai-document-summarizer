@@ -11,7 +11,7 @@ An AI-powered **PDF document summarizer** built using **Streamlit**, **Hugging F
 ##  Screenshots
 
 ### Home Page
-![Home Page](Home.png)
+![Home Page](https://github.com/infinitiveaman/ai-document-summarizer/blob/main/ai-document-summarizer/Home.png)
 
 ### Summary Output
 ![Summary Output](working.png)
